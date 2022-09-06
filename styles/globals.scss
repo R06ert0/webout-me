@@ -38,6 +38,8 @@ a {
       padding: 0;
 
       .card {
+        background-color: white;
+        color: black;
         min-height: calc(100% - 32px);
         min-width: calc(100% - 32px);
         position: relative;
